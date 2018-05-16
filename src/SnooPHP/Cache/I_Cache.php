@@ -1,6 +1,6 @@
 <?php
 
-namespace SnooPHP\Facebook;
+namespace SnooPHP\Cache;
 
 /**
  * Interface to store and retrieve api requests
